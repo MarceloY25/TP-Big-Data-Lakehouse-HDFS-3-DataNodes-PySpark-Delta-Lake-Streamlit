@@ -13,3 +13,6 @@ spark-warehouse/
 metastore_db/
 derby.log
 .venv/
+data_raw/ 
+.agents/ 
+.lh/ 
